@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Chengcheng-S/Chengcheng-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="goku.gif" width="200px" height="240px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 姓名和职业 -->
+# Hello, I'm Chengcheng Shi
+## BlockChain Engineer
+
+### Skills:
+- 🔥 Frontend Development: HTML, CSS, JavaScript, TypeScript
+- 💻 Backend Development: Rust,Golang
+- ⚙️ BlockChain：Substrate,cosmos,FileCoin
+- 🚀 Other Technologies: Python, Pgsql
+
+
+<a href="https://github.com/Chengcheng-S"><img src="https://img.shields.io/github/followers/felixfaisal?label=follow&color=white&style=for-the-badge&logo=github"></a>
