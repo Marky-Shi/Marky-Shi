@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<img src="goku.gif" width="300px" height="260px">
+<img src="goku.gif" width="320px" height="24px">
 
-<!-- 姓名和职业 -->
+
 # Hello, I'm Chengcheng Shi
 ## BlockChain Engineer
 
