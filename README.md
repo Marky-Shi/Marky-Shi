@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="goku.gif" width="320px" height="24px">
+<img src="goku.gif" width="320px" height="240px">
 
 
 # Hello, I'm Chengcheng Shi
