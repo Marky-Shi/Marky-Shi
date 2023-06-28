@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="goku.gif" width="300px" height="240px">
+<img src="goku.gif" width="300px" height="260px">
 
 <!-- 姓名和职业 -->
 # Hello, I'm Chengcheng Shi
