@@ -14,7 +14,6 @@
 - 🚀 Other Technologies: Python, Pgsql
 
 
-<a href="https://github.com/Chengcheng-S"><img src="https://img.shields.io/github/followers/felixfaisal?label=follow&color=white&style=for-the-badge&logo=github"></a>
-
-
 ![Chengcheng-S GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chengcheng-S&show_icons=true&count_private=true&hide=contribs,prs)
+
+<a href="https://github.com/Chengcheng-S"><img src="https://img.shields.io/github/followers/felixfaisal?label=follow&color=white&style=for-the-badge&logo=github"></a>
