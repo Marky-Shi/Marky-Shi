@@ -9,9 +9,10 @@
 
 ### Skills:
 - 🔥 Frontend Development: HTML, CSS, JavaScript, TypeScript
-- 💻 Backend Development: Rust,Golang
-- ⚙️ BlockChain：Substrate,cosmos,FileCoin
-- 🚀 Other Technologies: Python, Pgsql
+- 💻 Backend Development: Rust,Golang.
+- ⚙️ BlockChain：Substrate,cosmos,FileCoin.
+- 🔒 ZKP: Halo2,sp1,jolt.
+- 🚀 Other Technologies: Python, Pgsql.
 
 
 ![Chengcheng-S GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chengcheng-S&show_icons=true&count_private=true&hide=contribs,prs)
