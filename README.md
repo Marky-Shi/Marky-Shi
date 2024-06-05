@@ -11,7 +11,7 @@
 - 🔥 Frontend Development: HTML, CSS, JavaScript, TypeScript
 - 💻 Backend Development: Rust,Golang.
 - ⚙️ BlockChain：Substrate,cosmos,FileCoin.
-- 🔒 ZKP: Halo2,sp1,jolt.
+- 🔒 ZKP: Sp1,Jolt,Halo2,Risc0.
 - 🚀 Other Technologies: Python, Pgsql.
 
 
